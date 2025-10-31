@@ -1,0 +1,14 @@
+C:\Users\Desk-032\Documents\GymSystem\GymSystem\obj\Debug\GymSystem.csproj.AssemblyReference.cache
+C:\Users\Desk-032\Documents\GymSystem\GymSystem\obj\Debug\GymSystem.Properties.Resources.resources
+C:\Users\Desk-032\Documents\GymSystem\GymSystem\obj\Debug\GymSystem.csproj.GenerateResource.cache
+C:\Users\Desk-032\Documents\GymSystem\GymSystem\obj\Debug\GymSystem.csproj.CoreCompileInputs.cache
+C:\Users\Desk-032\Documents\GymSystem\GymSystem\obj\Debug\GymSystem.FrmAlunos.resources
+C:\Users\Desk-032\Documents\GymSystem\GymSystem\obj\Debug\GymSystem.FrmLogin.resources
+C:\Users\Desk-032\Documents\GymSystem\GymSystem\obj\Debug\GymSystem.FrmPrincipal.resources
+C:\Users\Desk-032\Documents\GymSystem\GymSystem\bin\Debug\GymSystem.exe.config
+C:\Users\Desk-032\Documents\GymSystem\GymSystem\bin\Debug\GymSystem.exe
+C:\Users\Desk-032\Documents\GymSystem\GymSystem\bin\Debug\GymSystem.pdb
+C:\Users\Desk-032\Documents\GymSystem\GymSystem\obj\Debug\GymSystem.exe
+C:\Users\Desk-032\Documents\GymSystem\GymSystem\obj\Debug\GymSystem.pdb
+C:\Users\Desk-032\Documents\GymSystem\GymSystem\obj\Debug\GymSystem.exe.config
+C:\Users\Desk-032\Documents\GymSystem\GymSystem\obj\Debug\GymSystem.FrmCadastroAlunos.resources
